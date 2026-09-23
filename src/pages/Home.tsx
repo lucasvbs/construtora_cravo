@@ -31,7 +31,7 @@ export default function Home() {
       {/* HERO SECTION */}
       <section className="relative h-[100dvh] w-full flex items-center justify-center overflow-hidden">
         {/* Background Video */}
-        <div className="absolute inset-0 z-0">
+        <div className="absolute inset-0 z-0 bg-black">
           <div className="absolute inset-0 bg-black/60 z-10" />
           <video 
             ref={videoRef}
