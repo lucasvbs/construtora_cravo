@@ -41,7 +41,7 @@ export default function Home() {
             muted 
             loop 
             playsInline
-            poster="/media/projeto-01.jpg"
+            preload="auto"
           />
         </div>
 
