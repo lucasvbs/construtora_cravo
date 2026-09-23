@@ -37,7 +37,7 @@ export function Navbar() {
             <img
               src="/media/logo-transparent.png"
               alt="Construtora Cravo Logo"
-              className="h-14 w-14 md:h-16 md:w-16 object-contain"
+              className="h-20 w-20 md:h-24 md:w-24 object-contain"
             />
           </a>
 
